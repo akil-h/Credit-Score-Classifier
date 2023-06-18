@@ -1,1 +1,2 @@
 # Credit_Score_Classifier
+This project aims to build on previous fraud and financial risk models by using a Random Forest algorithm to predict and classify loan candidates into their respective credit score categories. Given recent interest rate hikes alongside worsening macroeconomic conditions, the use of predictive models to determine credit health and loan risk is pertinent for financial institutions.
